@@ -1,0 +1,25 @@
+---
+id: 85446833
+name: Zerozerock
+type: Spell Card
+frameType: spell
+desc: Your opponent cannot target face-up Attack Position monsters with 0 ATK for
+  attacks.
+race: Continuous
+card_sets:
+- set_name: Cosmo Blazer
+  set_code: CBLZ-EN054
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.07'
+card_images:
+- id: 85446833
+  image_url: https://images.ygoprodeck.com/images/cards/85446833.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/85446833.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/85446833.jpg
+card_prices:
+- cardmarket_price: '0.04'
+  tcgplayer_price: '0.16'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.25'
